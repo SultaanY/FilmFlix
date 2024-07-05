@@ -1,0 +1,10 @@
+FilmFlix
+Main Menu options
+Enter:
+1. Print all records
+2. Add a record
+3. Update a record
+4. Update a full record
+5. Delete a record
+6. Select report 
+7. Exit the DB App
